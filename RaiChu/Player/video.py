@@ -21,7 +21,7 @@ from pytgcalls.types.input_stream.quality import (
 from youtubesearchpython import VideosSearch
 from Process.design.thumbnail import play_thumb, queue_thumb
 
-IMAGE_THUMBNAIL = "https://telegra.ph/file/519b6bc739756cb822039.png"
+IMAGE_THUMBNAIL = "https://telegra.ph/file/bc7ba397bb66523469e62.jpg"
 
 def ytsearch(query: str):
     try:
@@ -183,8 +183,8 @@ async def vplay(c: Client, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("📣 Channel", url=f"https://t.me/BotDuniyaXd"),
-                            InlineKeyboardButton("💭 Support", url=f"https://t.me/godzilla_chatting")
+                            InlineKeyboardButton("📣 Channel", url=f"https://t.me/Ishq_wala_lov3e"),
+                            InlineKeyboardButton("💭 Support", url=f"https://t.me/BHATAKTI_EMPIRE")
                         ],
                         [
                             InlineKeyboardButton("🗑 Close", callback_data="cls")
@@ -265,8 +265,8 @@ async def vplay(c: Client, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("📣 Channel", url=f"https://t.me/BotDuniyaXd"),
-                            InlineKeyboardButton("💭 Support", url=f"https://t.me/godzilla_chatting")
+                            InlineKeyboardButton("📣 Channel", url=f"https://t.me/Ishq_wala_lov3e"),
+                            InlineKeyboardButton("💭 Support", url=f"https://t.me/BHATAKTI_EMPIRE")
                         ],
                         [
                             InlineKeyboardButton("🗑 Close", callback_data="cls")
