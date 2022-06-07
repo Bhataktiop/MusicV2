@@ -1,15 +1,15 @@
 {
-    "name": "RaiChu Music Bot",
+    "name": " Music Bot",
     "description": "Telegram bot for Streaming  Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/b581039c9a18d939d19dd.jpg",
+    "logo": "https://telegra.ph/file/bc7ba397bb66523469e62.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "pyrogram"
     ],
-    "website": "https://t.me/BotDuniyaXd",
+    "website": "https://t.me/Ishq_wala_lov3e",
     "repository": "https://github.com/AMANTYA1/RaiChu-MusicV2",
-    "success_url": "https://t.me/BotDuniyaXd",
+    "success_url": "https://t.me/Ishq_wala_lov3e",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -46,17 +46,17 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": false,
-            "value": "godzilla_chatting"
+            "value": "Ishq_wala_lov3e"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": false,
-            "value": "BotDuniyaXd"
+            "value": "Ishq_wala_lov3e"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": false,
-            "value": "Shubhanshutya"
+            "value": "GIRLS_CRUSH_OUT_OF_RANGE"
         }
     },
     "addons": [],
